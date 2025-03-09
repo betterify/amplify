@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://amplify-3hf.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.avadhoot.me/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://amplify-3hf.pages.dev/</loc>
+<loc>https://blog.avadhoot.me/</loc>
 </url>
 <url>
-<loc>https://amplify-3hf.pages.dev/privacy.html</loc>
+<loc>https://blog.avadhoot.me/privacy.html</loc>
 <lastmod>2025-03-02T21:56:03+05:30</lastmod>
 <image:image>
-<image:loc>https://amplify-3hf.pages.dev/media/posts/1/privacy-policy.webp</image:loc>
+<image:loc>https://blog.avadhoot.me/media/posts/1/privacy-policy.webp</image:loc>
 <image:title><![CDATA[privacy policy]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://amplify-3hf.pages.dev/disclaimer.html</loc>
+<loc>https://blog.avadhoot.me/disclaimer.html</loc>
 <lastmod>2025-03-02T22:19:14+05:30</lastmod>
 <image:image>
-<image:loc>https://amplify-3hf.pages.dev/media/posts/2/terms-and-conditions-of-use.webp</image:loc>
+<image:loc>https://blog.avadhoot.me/media/posts/2/terms-and-conditions-of-use.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://amplify-3hf.pages.dev/happy-womens-day-2.html</loc>
+<loc>https://blog.avadhoot.me/happy-womens-day-2.html</loc>
 <lastmod>2025-03-08T22:32:19+05:30</lastmod>
 <image:image>
-<image:loc>https://amplify-3hf.pages.dev/media/posts/4/kingfisher-2.webp</image:loc>
+<image:loc>https://blog.avadhoot.me/media/posts/4/kingfisher-2.webp</image:loc>
 <image:title><![CDATA[Happy Women’s Day!]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://amplify-3hf.pages.dev/media/posts/4/Happy-Womans-Day.webp</image:loc>
+<image:loc>https://blog.avadhoot.me/media/posts/4/Happy-Womans-Day.webp</image:loc>
 <image:title><![CDATA[Happy Women’s Day!]]></image:title>
 </image:image>
 </url>
