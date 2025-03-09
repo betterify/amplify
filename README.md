@@ -1,2 +1,0 @@
-# amplify
-Publii CMS Amplify

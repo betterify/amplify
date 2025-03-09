@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amplify-3hf.pages.dev/sitemap.xml
